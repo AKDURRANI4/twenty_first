@@ -1,3 +1,5 @@
-print ("hello world")
-print (5+4)
+print ("hello world!")
+print ("aftter change")
+print ("after changing name init")
 print("hi")
+print ("ths is")
